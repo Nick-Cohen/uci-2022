@@ -19,4 +19,6 @@ Alexander Ihler (University of California, Irvine)<br/>
 Vibhav Gogate (University of Texas, Dallas)<br/>
 Junkyu Lee (IBM Research)<br/>
 Bobak Pezeshki (University of California, Irvine)<br/>
+Annie Raichev (Universiy of California, Irvine)<br/>
+Nick Cohen (Universiy of California, Irvine)<br/>
 Contact: `uaicompetition at gmail dot com`
